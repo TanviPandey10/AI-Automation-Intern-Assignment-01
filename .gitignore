@@ -1,0 +1,17 @@
+# Credentials and Secrets
+.env
+keys.json
+credentials.json
+*.pem
+
+# n8n specific
+node_modules/
+n8n_data/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temp/Logs
+*.log
+npm-debug.log*
