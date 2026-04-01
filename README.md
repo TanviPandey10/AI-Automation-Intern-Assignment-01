@@ -1,8 +1,4 @@
- Yeh rahi aapki updated aur perfectly formatted README.md. Isme maine aapke screenshot ke hisaab se bullet points aur structure ko clean kar diya hai taaki ye ek professional developer ki repo lage.
-
-Isko copy karke apni GitHub README mein paste kar dein:
-
-AI Automation Intern: Prospecting & Engagement Bot 🤖
+ AI Automation Intern: Prospecting & Engagement Bot 🤖
 This repository contains an automated lead generation and engagement pipeline built using n8n. It targets niche-specific leads on Instagram and X (Twitter) for an AI Agency.
 
 🛠 Tech Stack
