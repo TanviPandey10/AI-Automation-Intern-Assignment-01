@@ -1,4 +1,4 @@
-AI Automation Intern: Prospecting & Engagement Bot 🤖 This repository contains an automated lead generation and engagement pipeline built using n8n. It targets niche-specific leads on Instagram and X (Twitter) for an AI Agency.
+AI Automation Intern: Prospecting & Engagement Bot 🤖 This repository contains an automated lead generation and engagement pipeline built using n8n. It targets niche-specific leads on Instagram and X or Twitter for an AI Agency.
 
 🛠 Tech Stack Automation Engine: n8n (Self-hosted or Desktop)
 
