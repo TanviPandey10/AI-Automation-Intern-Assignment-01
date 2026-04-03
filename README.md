@@ -14,7 +14,7 @@ Communication: Email (SMTP) for daily reports
 
 AI Personalization: No generic templates. Groq analyzes lead data to draft custom AI agency service pitches.
 
-Smart Delays: Randomized wait times to stay within rate limits and avoid platform bans.
+Smart Delays- Randomized wait times to stay within rate limits and avoid platform bans.
 
 Event Detection: Triggers based on new follows or bio updates.
 
