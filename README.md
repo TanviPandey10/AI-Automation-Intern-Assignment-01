@@ -10,7 +10,7 @@ Database/Reporting: Google Sheets API
 
 Communication: Email (SMTP) for daily reports
 
-🚀 Features Multi-Platform Scraping: Filters leads by bio keywords, location, and follower/engagement ratios.
+ Features Multi-Platform Scraping: Filters leads by bio keywords, location, and follower/engagement ratios.
 
 AI Personalization: No generic templates. Groq analyzes lead data to draft custom AI agency service pitches.
 
