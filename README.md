@@ -16,7 +16,7 @@ AI Personalization: No generic templates. Groq analyzes lead data to draft custo
 
 Smart Delays- Randomized wait times to stay within rate limits and avoid platform bans.
 
-Event Detection: Triggers based on new follows or bio updates.
+Event Detection: Triggers based on new follows or bio updates...
 
 Reporting: Automatic sync to Google Sheets with real-time conversion tracking.
 
