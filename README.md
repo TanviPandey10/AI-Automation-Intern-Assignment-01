@@ -44,4 +44,4 @@ Apify: Reliable cloud-based scraping that bypasses basic IP blocks which often s
 
 Proxy Rotation: Use residential proxies to scale from 100 to 1000+ DMs/day safely.
 
-Sentiment Analysis: Automatically detect "Interested" vs "Not Interested" replies to intelligently pause or continue follow-up sequences.
+Sentiment Analysis: Automatically detect "Interested" vs "Not Interested" replies to intelligently pause or continue follow-up sequences....
